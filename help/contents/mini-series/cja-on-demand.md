@@ -3,7 +3,7 @@ title: Beschleuniger zur Wertschöpfung bei CJA
 description: Diese On-Demand-Customer Journey Analytics-Serie unterstützt Unternehmen beim Aufbau einer wertorientierten Messstrategie, die Kundendaten in zuverlässige Einblicke und messbare Geschäftsergebnisse verwandelt.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

@@ -3,7 +3,7 @@ title: Beschleuniger zur Wertschöpfung bei AJO
 description: Die Adobe Journey Optimizer-Reihe zur Wertschöpfung führt Teams bei der Aktivierung personalisierter Interaktionen in Echtzeit durch eine klare Wertstrategie. In diesen Sitzungen werden Anwendungsfall-Roadmaps, Architektur, Betriebsmodelle und die organisatorische Bereitschaft zur Beschleunigung der Wertschöpfungszeit und Maximierung der AJO-Akzeptanz behandelt.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -145,3 +145,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
