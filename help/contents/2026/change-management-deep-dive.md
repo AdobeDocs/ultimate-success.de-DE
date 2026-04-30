@@ -26,7 +26,7 @@ Nehmen Sie an einer interaktiven Änderungsmanagement-Arbeitssitzung teil, die s
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-Diese Sitzung erfordert wenig bis keine Vorbereitung.  Optional können Sie die Aufzeichnung [Change Management Strategies](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) aus der [VRA-Serie](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand) ansehen, Teams auf jeder Reifegrad unterstützen und sicherstellen, dass jeder Teilnehmer die Seite verlässt, um einen greifbaren, einseitigen Änderungsplan zu erhalten, der direkt auf seine AJO-Anwendungsfälle abgestimmt ist.
+Diese Sitzung erfordert wenig bis keine Vorbereitung.  Optional können Sie die Aufzeichnung [Change Management Strategies](https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) aus der [VRA-Serie](https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand) ansehen, Teams auf jeder Reifegrad unterstützen und sicherstellen, dass jeder Teilnehmer die Seite verlässt, um einen greifbaren, einseitigen Änderungsplan zu erhalten, der direkt auf seine AJO-Anwendungsfälle abgestimmt ist.
 
 Im Mittelpunkt dieser Sitzung standen:
 
