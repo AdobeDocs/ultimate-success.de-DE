@@ -2,7 +2,7 @@
 title: Ultimate Success Webinar-Bibliothek
 description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -18,7 +18,8 @@ Greifen Sie auf unsere umfangreiche Bibliothek von Webinaren zu, die von Fachleu
 
 Informieren Sie sich über unsere On-Demand-Webinare, mit denen Sie den Wert von Adobe Experience Platform (AEP)-Lösungen maximieren können. Jede Sitzung wurde für Ultimate-Kunden entwickelt und bietet praktische Anleitungen, bewährte Strategien und Beispiele aus der Praxis, die Ihnen helfen, intelligentere Entscheidungen zu treffen und bessere Ergebnisse zu erzielen - nach Plan.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -207,7 +208,8 @@ Erkunden Sie die On-Demand-Aufzeichnungen der Adobe Value Realization Series, di
 
 In jeder fokussierten Sitzung wird eine zentrale Säule des Wertschöpfungs-Frameworks vorgestellt, die praktische Anleitungen und bewährte Artefakte bietet, um die strategische Planung zu unterstützen, die Time-to-Value zu beschleunigen und aussagekräftige Ergebnisse zu erzielen. Durchsuchen Sie produkt- und branchenspezifische Serien, um zu sehen, wie Teams die Strategie aktivieren, Stakeholder aufeinander abstimmen und von der Akzeptanz zur Wirkung übergehen.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
   {cta  = View series}
   
