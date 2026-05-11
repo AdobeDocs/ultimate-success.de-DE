@@ -2,9 +2,9 @@
 title: Ultimate Success Webinar-Bibliothek
 description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 hide: true
-source-git-commit: 7441663a714b7e3333bc60d3d79ed7081ee68510
+source-git-commit: 773fa770ff0d64a6322de776a95868402c324e20
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '1135'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,7 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/ai-visibility.md
 * ../contents/2026/unified-audiences.md
 * ../contents/2026/intelligent-decsioning.md
 * ../contents/2026/change-management-deep-dive.md
@@ -36,12 +37,35 @@ CARDS  ****
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Win Visibility in the AI Era with Adobe LLM Optimizer & Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/ai-visibility.md" title="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1778531011360" alt="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/ai-visibility.md" target="_blank" rel="referrer" title="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen">Gewinnen Sie mit Adobe LLM Optimizer und Sites Optimizer die Sichtbarkeit im KI-Zeitalter</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Adobe LLM Optimizer und Sites Optimizer die KI-Sichtbarkeit und Site-Performance verbessern und wirkungsvolle digitale Erlebnisse bereitstellen.</p>
+                </div>
+                <a href="../contents/2026/ai-visibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Federated Audience Composition (FAC) in AEP - From Data Silos to Unified Audiences">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unified-audiences.md" title="Ermöglichen der Federated Audience Composition (FAC) in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1778512233005" alt="Ermöglichen der Federated Audience Composition (FAC) in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1778531011369" alt="Ermöglichen der Federated Audience Composition (FAC) in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,7 +88,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/intelligent-decsioning.md" title="Bereitstellung von Echtzeit-Kundenerlebnissen mit intelligenter Entscheidungsfindung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486514/?captions=ger&format=jpeg&nocache=1778512232986" alt="Bereitstellung von Echtzeit-Kundenerlebnissen mit intelligenter Entscheidungsfindung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486514/?captions=ger&format=jpeg&nocache=1778531011366" alt="Bereitstellung von Echtzeit-Kundenerlebnissen mit intelligenter Entscheidungsfindung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +111,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/change-management-deep-dive.md" title="Detaillierte Einblicke in die Änderungsverwaltung in Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1778512232991" alt="Detaillierte Einblicke in die Änderungsverwaltung in Adobe Journey Optimizer (AJO)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1778531011373" alt="Detaillierte Einblicke in die Änderungsverwaltung in Adobe Journey Optimizer (AJO)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +134,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="BRD-SDR-Dateierstellung für Analytics und Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1778512233632" alt="BRD-SDR-Dateierstellung für Analytics und Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1778531012539" alt="BRD-SDR-Dateierstellung für Analytics und Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +157,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="Integrierte Intelligenzverschiebung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1778512236673" alt="Integrierte Intelligenzverschiebung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1778531012431" alt="Integrierte Intelligenzverschiebung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +180,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Authoring in Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1778512237671" alt="Authoring in Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1778531012496" alt="Authoring in Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +203,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Inhaltslieferketten maximieren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1778512233634" alt="Inhaltslieferketten maximieren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1778531012430" alt="Inhaltslieferketten maximieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +226,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="Moderne Versandmodelle für AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478784/?captions=ger&format=jpeg&nocache=1778512233655" alt="Moderne Versandmodelle für AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478784/?captions=ger&format=jpeg&nocache=1778531012485" alt="Moderne Versandmodelle für AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -225,7 +249,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="Strategische Vorteile von AEM Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1778512233716" alt="Strategische Vorteile von AEM Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1778531012531" alt="Strategische Vorteile von AEM Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
