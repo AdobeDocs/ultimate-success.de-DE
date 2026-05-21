@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie künstliche Intelligenz die Suche neu gestaltet und digitale Strategien beeinflusst. In dieser Sitzung wird untersucht, wie Sie Adobe Experience Manager (AEM) Sites optimieren können, um die Sichtbarkeit, Leistung und Konversionen in der sich entwickelnden Landschaft der KI-gestützten Erkennung zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491259/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491282/?captions=ger&learn=on&enablevpops)
 
 ## Wichtige Themen
 

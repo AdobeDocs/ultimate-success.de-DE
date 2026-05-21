@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Da die Komplexität von Inhalten zunimmt, haben viele Unternehmen Schwierigkeiten, den geschäftlichen Nutzen ihrer Inhaltsabläufe klar zu verdeutlichen. Dieses Webinar führt einen strukturierten, ergebnisbasierten Ansatz zur Messung des Werts im gesamten Content Supply chain ein. Er hilft Ihnen bei der Definition aussagekräftiger KPIs, der Verknüpfung von Inhaltsinvestitionen mit den Geschäftsauswirkungen und der Einrichtung einer einsatzbereiten Scorecard zur Messung des laufenden Werts
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491249/?captions=ger&learn=on&enablevpops)
