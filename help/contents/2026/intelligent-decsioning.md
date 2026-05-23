@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Für die Bereitstellung personalisierter Kundenerlebnisse in Echtzeit sind mehr als nur Kundendaten erforderlich. Sie beruht auf intelligenter Entscheidungsfindung, um mehrere Optionen zu bewerten und die relevanteste zum richtigen Zeitpunkt bereitzustellen. Mit Adobe Journey Optimizer können Marken Erlebnisse strukturieren, Entscheidungslogik anwenden und die Personalisierung auf alle Journey der Kunden skalieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486514/?captions=ger&learn=on&enablevpops)
 
 In dieser Sitzung wird die Bedeutung intelligenter Entscheidungen, deren Funktionsweise und deren geschäftliche Vorteile behandelt. Erfahren Sie, wie grundlegende Strukturen wie Katalogschemata und Angebotssammlungen die Skalierung optimieren, während Tools wie Entscheidungsregeln und KI-Modelle die personalisierte Bereitstellung optimieren. Entdecken Sie Methoden zum dynamischen Ranking von Angeboten, einschließlich der Verwendung von KI-gesteuerten Modellen für die personalisierte Optimierung.
 
