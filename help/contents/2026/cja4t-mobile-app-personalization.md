@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie mit CJA4T kanalübergreifend Erlebnisse mit Mobile Apps von Adobe Target mit nachgelagerten Aktionen verbinden. Diese Sitzung bietet Anleitungen zum Identitäts-Stitching, zur Datenarchitektur, zur Reporting-Konfiguration und zur Vermeidung gängiger Setup-Fallstricke. Verschaffen Sie sich einen umfassenderen Überblick über die Auswirkungen der Personalisierung und treffen Sie bessere Optimierungsentscheidungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496985/?captions=ger&learn=on&enablevpops)
 
 ## Behandelte Themen
 
