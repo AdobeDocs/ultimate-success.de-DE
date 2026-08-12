@@ -2,8 +2,12 @@
 title: Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent
 description: Erfahren Sie, wie Audience Agent und Data Insights Agent aus der Ad-hoc-KI-Verwendung wiederholbare Workflows für die Segmentierung, Zielgruppen-Management und Kampagnenanalyse machen.
 product: Customer Journey Analytics
-role: DeveloperUser
-level: BeginnerIntermediate
+role:
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

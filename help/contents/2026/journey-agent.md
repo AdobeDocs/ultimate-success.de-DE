@@ -2,8 +2,14 @@
 title: Skalieren von Adobe-Agenten - Journey Agent
 description: Erfahren Sie, wie Journey Agent von Adobe KI-Workflows mit menschlicher Aufsicht kombiniert, um die Erstellung und Verwaltung von Journey zu optimieren.
 product: Journey Optimizer
-role: AdminLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

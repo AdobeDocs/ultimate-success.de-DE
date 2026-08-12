@@ -2,8 +2,13 @@
 title: Warum Sie einheitliche Überprüfungen und Genehmigungen in Workfront wünschen
 description: Erfahren Sie, wie Adobe Workfront Unified Review & Approval die Inhaltsüberprüfungsprozesse optimiert, die Zusammenarbeit verbessert und die Effizienz steigert.
 product: Workfront
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

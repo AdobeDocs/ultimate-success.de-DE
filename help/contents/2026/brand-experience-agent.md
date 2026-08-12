@@ -2,8 +2,13 @@
 title: Skalierung von Adobe-Agenten - Brand Experience Agent
 description: Erfahren Sie, wie Brand Experience Agent von Adobe Workflows optimieren, die Inhaltserstellung beschleunigen und Governance für skalierbaren Geschäftswert sicherstellen kann.
 product: Workfront
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

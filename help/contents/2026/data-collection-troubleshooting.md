@@ -2,8 +2,12 @@
 title: Fehlerbehebung bei der Datenerfassung - Tipps, Tricks und Best Practices für die Governance
 description: Erfahren Sie, wie Sie Adobe Analytics und Web SDK mit Governance-gestützten Verfahren zur schnelleren Validierung von Daten und Behebung von Problemen effektiv beheben können.
 product: Customer Journey Analytics
-role: AdminDeveloper
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

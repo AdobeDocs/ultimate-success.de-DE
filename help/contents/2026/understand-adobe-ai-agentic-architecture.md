@@ -2,8 +2,15 @@
 title: Grundlegendes zur KI und Agentenarchitektur von Adobe für Geschäftsanforderungen
 description: Erfahren Sie, wie die KI- und Agentenarchitektur von Adobe mit Geschäftsergebnissen übereinstimmen, die Investitionen in Adobe maximieren und eine skalierbare Einführung mit starker Governance ermöglichen.
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
