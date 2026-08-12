@@ -28,7 +28,7 @@ ht-degree: 2%
 
 Erfahren Sie, wie Brand Experience Agent die Inhaltserstellung, Site-Modernisierung und -Entwicklung beschleunigen kann, während gleichzeitig die Überprüfung durch einen Mitarbeiter und die Governance beibehalten werden. Erfahren Sie, warum die Standardisierung hochwertiger, sich wiederholender Workflows für die Bereitstellung eines skalierbaren Geschäftswerts unerlässlich ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496974/?captions=ger&learn=on&enablevpops)
 
 ## Behandelte Themen
 
