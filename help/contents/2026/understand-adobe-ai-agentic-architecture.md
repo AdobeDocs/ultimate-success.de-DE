@@ -2,15 +2,8 @@
 title: Grundlegendes zur KI und Agentenarchitektur von Adobe für Geschäftsanforderungen
 description: Erfahren Sie, wie die KI- und Agentenarchitektur von Adobe mit Geschäftsergebnissen übereinstimmen, die Investitionen in Adobe maximieren und eine skalierbare Einführung mit starker Governance ermöglichen.
 product: Platform
-role:
-  - Admin
-  - Developer
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
-  - Experienced
+role: Admin, Developer, Leader, User
+level: Beginner, Intermediate, Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -18,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -30,7 +23,7 @@ ht-degree: 4%
 
 Diese Sitzung bietet ein detailliertes Framework, um die KI-Funktionen von Adobe an Ihren Geschäftszielen auszurichten. Der Schwerpunkt liegt auf der Maximierung Ihrer Adobe-Investitionen und der Einführung skalierbarer Lösungen mit verbesserter Datenbereitschaft und Governance.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496965/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
 
 ## Behandelte Themen
 
