@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Diese Sitzung bietet ein detailliertes Framework, um die KI-Funktionen von Adobe an Ihren Geschäftszielen auszurichten. Der Schwerpunkt liegt auf der Maximierung Ihrer Adobe-Investitionen und der Einführung skalierbarer Lösungen mit verbesserter Datenbereitschaft und Governance.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496965/?captions=ger&learn=on&enablevpops)
 
 ## Behandelte Themen
 
