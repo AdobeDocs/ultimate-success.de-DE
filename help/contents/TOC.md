@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar-Bibliothek
 breadcrumb-title: Ultimate Success Webinar-Bibliothek
 user-guide-description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 nudge: true
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -46,3 +46,4 @@ ht-degree: 1%
   + {hide-from-toc}[Migrations-Roadmap für Adobe Analytics zu Customer Journey Analytics](../contents/2026/aa-to-cja-migration-roadmap.md)
   + {hide-from-toc}[CJA4T für Mobile App Personalization](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobes KI- und Agentenarchitektur](../contents/2026/understand-adobe-ai-agentic-architecture.md)
+  + {hide-from-toc}[Skalierbares Betriebsmodell für Adobe Workfront](../contents/2026/scalable-operating-model.md)
