@@ -1,7 +1,7 @@
 ---
 title: Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent
 description: Erfahren Sie, wie Audience Agent und Data Insights Agent aus der Ad-hoc-KI-Verwendung wiederholbare Workflows für die Segmentierung, Zielgruppen-Management und Kampagnenanalyse machen.
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22287
 duration: 2930
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 2%
