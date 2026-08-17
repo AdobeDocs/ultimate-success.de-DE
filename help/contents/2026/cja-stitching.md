@@ -2,8 +2,13 @@
 title: Erhöhen von kanalübergreifenden Einblicken mit Adobe Customer Journey Analytics-Zuordnung
 description: Erfahren Sie, wie die Adobe CJA-Zuordnung kanalübergreifende Analysen auf Personenebene ermöglicht und so die Berichterstellung, Attribution und Zielgruppenerstellung verbessert.
 product: Journey Optimizer
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
