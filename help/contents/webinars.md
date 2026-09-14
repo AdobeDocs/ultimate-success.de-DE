@@ -1194,7 +1194,7 @@ CARDS
 
 * https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/aem-authoring-concepts
 * https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/aem-sites-efficiencies
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services
+* https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -1249,7 +1249,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" title="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" title="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1787604831103" alt="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -1258,11 +1258,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" target="_blank" rel="referrer" title="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services">Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" target="_blank" rel="referrer" title="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services">Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services</a>
                     </p>
                     <p class="is-size-6">In der Sitzung zu Edge Delivery Services (EDS) wurden die Architektur, die Integration mit dokumentbasiertem und AEM-basiertem Authoring, die schnelle Site-Erstellung, Anpassungsoptionen und Best Practices für die Aufrechterhaltung der hohen Leistung behandelt.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -3093,7 +3093,7 @@ CARDS
 
 {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness
+* https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness
 * https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/getting-started-rtcdp
 * https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/ai-customer-experience
 * https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/use-case-mapping
@@ -3105,7 +3105,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" title="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" title="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1787604849446" alt="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -3114,11 +3114,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" target="_blank" rel="referrer" title="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform">Bereitschaft für die Migration von Real-time Customer Data Platform</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" target="_blank" rel="referrer" title="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform">Bereitschaft für die Migration von Real-time Customer Data Platform</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie zu Adobe Real-time CDP (RTCDP) migrieren und welcher Aufwand erforderlich ist:- Migration von einer bestehenden CDP- Auswirkungen auf bestehende Anwendungsfälle (Personalization und Optimierung)- Organisatorische Änderungen zur Unterstützung der Echtzeit-Kundendatenverwaltung.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
