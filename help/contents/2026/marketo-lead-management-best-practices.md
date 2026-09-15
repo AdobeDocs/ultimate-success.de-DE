@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Entdecken Sie den von Adobe empfohlenen Ansatz für das Lead-Management und erfahren Sie, wie Marketing und Vertrieb über ein gemeinsames Framework für Qualifizierung, Follow-up und Messung funktionieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502997/?captions=ger&learn=on&enablevpops)
 
 ## Überblick
 

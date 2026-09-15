@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Erfahren Sie, wie Workfront Planning fragmentierte Sichtbarkeit, getrennte Strategie und Ausführung sowie manuellen Reporting-Overhead in der Marketing-Planung berücksichtigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502959/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502977/?captions=ger&learn=on&enablevpops)
 
 ## Wichtige Schlussfolgerungen
 
