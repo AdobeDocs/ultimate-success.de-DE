@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar-Bibliothek
 breadcrumb-title: Ultimate Success Webinar-Bibliothek
 user-guide-description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 nudge: true
-source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
+source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '256'
 ht-degree: 0%
 ---
 
@@ -56,3 +56,5 @@ ht-degree: 0%
   + {hide-from-toc}[Strategische Planung für CXO Success](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[AEM Agent-Kenntnisse](../contents/2026/ai-assisted-development.md)
   + {hide-from-toc}[getaggt, gesteuert, aktiviert](../contents/2026/metadata-backbone-content-at-scale.md)
+  + {hide-from-toc}[Entfesseln Sie die Zukunft des B2B-Wachstums](../contents/2026/future-b2b-growth.md)
+  + {hide-from-toc}[Schließen der Lücke zwischen Fertigungsprüfung und Genehmigung](../contents/2026/wip-review-approval-gap.md)
