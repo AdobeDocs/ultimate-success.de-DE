@@ -2,21 +2,15 @@
 title: Ultimate Success Webinar-Bibliothek
 description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Ultimate Success Webinar-Bibliothek
 
 Greifen Sie auf unsere umfangreiche Bibliothek von Webinaren zu, die von Fachleuten geleitet werden und darauf abzielen, die Beherrschung strategischer und technischer Best Practices zu beschleunigen, die exklusiv für unsere Ultimate Success-Kunden entwickelt wurden. Von grundlegenden Konzepten bis hin zu erweiterten Implementierungsstrategien - diese Webinare decken alles ab, was Sie benötigen, um messbare Geschäftsergebnisse zu erzielen.
-
-## Adobe AI Essentials
-
-Bacon ipsum dolor amet Schweinebauch picanha Schaft, biltong Schinken Fleischbrot polony Schweinelende doner landjaeger. Türkei Ersatzrippen Filet Mignon Pancetta Ground Round Leberkas Schulter Drumstick Jerky Schweineball Spitze. Kurze Rippen Frankfurter Chuck Shankle Schinken Hock Tritip, Filet Mignon Schwanz Kuh Boden rund Boudin chislic Schlagstock. Capicola Jowl kurze Rippen, Schulter Frankfurter Ersatzrippen Schweinelende Rumpf Fatback Truthahn Boudin Salami Ground. Wangenschenkel landjaeger prosciutto porchetta turducken chislic chuck. Rindshankle Turducken, Landjaeger kurze Rippen kurze Lende Pancetta Ersatzrippen Corned Beef Porchetta Polony Kevin Jowl Schweinefleischkotelett.
-
-[Alle Webinare anzeigen](./webinars.md)
 
 ## Webinare
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491249/?captions=ger&format=jpeg&nocache=1790984045136" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Content Supply chain - Reihe zur Wertschöpfung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1773689372143" alt="Content Supply chain - Reihe zur Wertschöpfung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Content Supply chain - Reihe zur Wertschöpfung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
