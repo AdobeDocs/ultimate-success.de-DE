@@ -3,15 +3,15 @@ user-guide-title: Ultimate Success Webinar-Bibliothek
 breadcrumb-title: Ultimate Success Webinar-Bibliothek
 user-guide-description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 nudge: true
-source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
+source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '268'
 ht-degree: 0%
 ---
 
 # Ultimate Success Webinar-Bibliothek {#ultimate-success-webinar-library}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 + {hide-from-toc}[Übersicht KI](overview-ai.md)
 + [Webinare](webinars.md)
 + Inhalte der Mini-Serie {#mini-series}
@@ -61,3 +61,4 @@ ht-degree: 0%
   + {hide-from-toc}[Entfesseln Sie die Zukunft des B2B-Wachstums](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[Schließen der Lücke zwischen Fertigungsprüfung und Genehmigung](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc}[Gebäude für KI-Skalierung](../contents/2026/building-for-ai-scale.md)
+  + {hide-from-toc}[Code-basierte Erlebnisse in AJO](../contents/2026/strategies-for-smarter-personalization.md)
