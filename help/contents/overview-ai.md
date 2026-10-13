@@ -2,9 +2,9 @@
 title: Ultimate Success Webinar-Bibliothek
 description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 hide: true
-source-git-commit: 991fae76e22b430abcaa45094697d560f864a1fd
+source-git-commit: 7d99aced57be0fb087d28e87780797cf9eeffb23
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '890'
 ht-degree: 15%
 ---
 
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491249/?captions=ger&format=jpeg&nocache=1791844681479" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791915927056" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="Schnelle, bearbeitbare Sites mit universellem Editor und modernen SSR-Frameworks" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791844681450" alt="Schnelle, bearbeitbare Sites mit universellem Editor und modernen SSR-Frameworks"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791915927036" alt="Schnelle, bearbeitbare Sites mit universellem Editor und modernen SSR-Frameworks"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO-Produktversionssitzung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791844681438" alt="AJO-Produktversionssitzung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791915927066" alt="AJO-Produktversionssitzung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,7 +138,7 @@ CARDS  ****
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="KI-Grundlagen">AI Essentials</a>
                     </p>
-                    <p class="is-size-6">Lernen Sie Adobe AI mit On-Demand-Sitzungen kennen, in denen die Kernkonzepte und praktischen KI-Funktionen der Adobe Customer Experience Orchestration-Produkte behandelt werden.</p>
+                    <p class="is-size-6">Machen Sie sich mit unserem kuratierten Satz an On-Demand-Miniserien-Inhalten vertraut, wobei jedes Webinar zu einem einzigen Thema aufgebaut wird, sodass Sie jede Sitzung einzeln erlernen oder die gesamte Serie ansehen können, um ein umfassendes Verständnis zu erhalten</p>
                 </div>
                 <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Serie anzeigen</span>
@@ -197,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Content Supply chain - Reihe zur Wertschöpfung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1773689372143" alt="Content Supply chain - Reihe zur Wertschöpfung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Content Supply chain - Reihe zur Wertschöpfung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
