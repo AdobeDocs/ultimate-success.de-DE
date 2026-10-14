@@ -2,7 +2,7 @@
 title: Ultimate Success Webinar-Bibliothek
 description: Informieren Sie sich über unsere exklusive, von Experten geführte Webinar-Bibliothek für Ultimate Success-Kunden, in der Sie strategische und technische Best Practices, die messbare Geschäftsergebnisse liefern, schnell kennenlernen.
 hide: true
-source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
+source-git-commit: 3e0476c188642f2642d7d67b0c27e08a26895f10
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -14,7 +14,7 @@ Greifen Sie auf unsere umfangreiche Bibliothek von Webinaren zu, die von Fachleu
 
 ## Webinare
 
-Informieren Sie sich über unsere On-Demand-Webinare, mit denen Sie den Wert von Adobe Experience Platform (AEP)-Lösungen maximieren können. Jede Sitzung wurde für Ultimate-Kunden entwickelt und bietet praktische Anleitungen, bewährte Strategien und Beispiele aus der Praxis, die Ihnen helfen, intelligentere Entscheidungen zu treffen und bessere Ergebnisse zu erzielen - nach Plan.
+Informieren Sie sich über unsere On-Demand-Webinare, mit denen Sie den Wert von Adobe Experience Platform (AEP)-Lösungen maximieren können. Jede Sitzung wurde für Ultimate-Kunden entwickelt und bietet praktische Anleitungen, bewährte Strategien und Beispiele aus der Praxis, die Ihnen dabei helfen, intelligentere Entscheidungen zu treffen und bessere Ergebnisse zu erzielen.
 
 <!-- 
 CARDS  ****
