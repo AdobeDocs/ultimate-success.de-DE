@@ -2,7 +2,7 @@
 title: Ultimate Success Webinar-Bibliothek
 description: Informieren Sie sich über unsere exklusive, von Experten geführte Webinar-Bibliothek für Ultimate Success-Kunden, in der Sie strategische und technische Best Practices, die messbare Geschäftsergebnisse liefern, schnell kennenlernen.
 hide: true
-source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
+source-git-commit: 3e0476c188642f2642d7d67b0c27e08a26895f10
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -14,7 +14,7 @@ Greifen Sie auf unsere umfangreiche Bibliothek von Webinaren zu, die von Fachleu
 
 ## Webinare
 
-Informieren Sie sich über unsere On-Demand-Webinare, mit denen Sie den Wert von Adobe Experience Platform (AEP)-Lösungen maximieren können. Jede Sitzung wurde für Ultimate-Kunden entwickelt und bietet praktische Anleitungen, bewährte Strategien und Beispiele aus der Praxis, die Ihnen helfen, intelligentere Entscheidungen zu treffen und bessere Ergebnisse zu erzielen - nach Plan.
+Informieren Sie sich über unsere On-Demand-Webinare, mit denen Sie den Wert von Adobe Experience Platform (AEP)-Lösungen maximieren können. Jede Sitzung wurde für Ultimate-Kunden entwickelt und bietet praktische Anleitungen, bewährte Strategien und Beispiele aus der Praxis, die Ihnen dabei helfen, intelligentere Entscheidungen zu treffen und bessere Ergebnisse zu erzielen.
 
 <!-- 
 CARDS  ****
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491249/?captions=ger&format=jpeg&nocache=1791917786805" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791917786805" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Content Supply chain - Reihe zur Wertschöpfung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1773689372143" alt="Content Supply chain - Reihe zur Wertschöpfung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Content Supply chain - Reihe zur Wertschöpfung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
