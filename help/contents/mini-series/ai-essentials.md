@@ -2,10 +2,10 @@
 title: KI-Grundlagen
 description: Lernen Sie Adobe AI mit On-Demand-Sitzungen kennen, in denen die Kernkonzepte und praktischen KI-Funktionen der Adobe Customer Experience Orchestration-Produkte behandelt werden.
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
-source-wordcount: '1310'
-ht-degree: 30%
+source-wordcount: '1313'
+ht-degree: 29%
 ---
 
 # KI Essentials-Reihe
@@ -82,8 +82,8 @@ CARDS  ****
 
 * https://experienceleague.adobe.com/en/on-demand-events/ai-beyond-basics
 * https://experienceleague.adobe.com/en/on-demand-events/cja-data-insights-agent
-* https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja
-* https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents
+* https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja
+* https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -92,7 +92,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-beyond-basics" title="KI-Assistent - Über die Grundlagen hinaus" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463367/?captions=ger&format=jpeg&nocache=1791840290822" alt="KI-Assistent - Über die Grundlagen hinaus"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1791840290822" alt="KI-Assistent - Über die Grundlagen hinaus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" title="Operationalisieren von Adobe Data Insights Agent in CJA" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" title="Operationalisieren von Adobe Data Insights Agent in CJA" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1791840290897" alt="Operationalisieren von Adobe Data Insights Agent in CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -146,11 +146,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" title="Operationalisieren von Adobe Data Insights Agent in CJA">Operationalisieren von Adobe Data Insights Agent in CJA</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" title="Operationalisieren von Adobe Data Insights Agent in CJA">Operationalisieren von Adobe Data Insights Agent in CJA</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Adobe Data Insights Agent in Customer Journey Analytics-Workflows integrieren können, um schnellere Einblicke und skalierbare Entscheidungen zu ermöglichen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -160,7 +160,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" title="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" title="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1791840290912" alt="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -169,11 +169,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" target="_blank" rel="referrer" title="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent">Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" target="_blank" rel="referrer" title="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent">Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Audience Agent und Data Insights Agent aus der Ad-hoc-KI-Verwendung wiederholbare Workflows für die Segmentierung, Zielgruppen-Management und Kampagnenanalyse machen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -189,8 +189,8 @@ CARDS  ****
 
 {cta = Watch}
 
-* https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets
-* https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development
+* https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets
+* https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -198,7 +198,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" title="KI-Funktionen in Adobe Experience Manager Assets" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" title="KI-Funktionen in Adobe Experience Manager Assets" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1791840291754" alt="KI-Funktionen in Adobe Experience Manager Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -207,11 +207,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" target="_blank" rel="referrer" title="KI-Funktionen in Adobe Experience Manager Assets">KI-Funktionen in Adobe Experience Manager Assets</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" target="_blank" rel="referrer" title="KI-Funktionen in Adobe Experience Manager Assets">KI-Funktionen in Adobe Experience Manager Assets</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie KI das Digital Asset Management in AEM Assets transformiert, indem Tagging, Metadatenerstellung und die Optimierung der Inhaltserkennung automatisiert werden.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -221,7 +221,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" title="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" title="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1791840291747" alt="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -230,11 +230,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" target="_blank" rel="referrer" title="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht">AEM Agent-Kenntnisse - KI-unterstützte Entwicklung richtig durchgeführt</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" target="_blank" rel="referrer" title="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht">AEM Agent-Kenntnisse - KI-unterstützte Entwicklung richtig durchgeführt</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie mehr über die Fähigkeiten des AEM-Agenten von Adobe, um die KI-Kodierungsassistenten mit Adobe-geprüftem Kontext für konsistenten, produktionsbereiten AEM-Code zu verbessern.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -303,3 +303,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
