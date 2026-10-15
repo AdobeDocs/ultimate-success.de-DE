@@ -2,10 +2,10 @@
 title: KI-Grundlagen
 description: Lernen Sie Adobe AI mit On-Demand-Sitzungen kennen, in denen die Kernkonzepte und praktischen KI-Funktionen der Adobe Customer Experience Orchestration-Produkte behandelt werden.
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
-source-wordcount: '1310'
-ht-degree: 30%
+source-wordcount: '1313'
+ht-degree: 29%
 ---
 
 # KI Essentials-Reihe
@@ -303,3 +303,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
