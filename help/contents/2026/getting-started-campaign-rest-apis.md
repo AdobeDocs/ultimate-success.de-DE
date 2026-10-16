@@ -19,7 +19,7 @@ source-wordcount: '365'
 ht-degree: 1%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3504653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504661/?captions=ger&learn=on&enablevpops)
 
 # Schnellstart für die Integration: Erste Schritte mit Campaign-REST-APIs
 
