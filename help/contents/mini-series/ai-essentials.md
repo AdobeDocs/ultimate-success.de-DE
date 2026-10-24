@@ -19,8 +19,8 @@ CARDS  ****
 
 {cta = Watch}
 
-* https://experienceleague.adobe.com/en/on-demand-events/embedded-intelligence
-* https://experienceleague.adobe.com/en/on-demand-events/ai-agents
+* https://experienceleague.adobe.com/de/on-demand-events/embedded-intelligence
+* https://experienceleague.adobe.com/de/on-demand-events/ai-agents
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -28,7 +28,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/embedded-intelligence" title="Integrierte Intelligenzverschiebung" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/on-demand-events/embedded-intelligence" title="Integrierte Intelligenzverschiebung" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="Integrierte Intelligenzverschiebung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -37,11 +37,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/embedded-intelligence" target="_blank" rel="referrer" title="Integrierte Intelligenzverschiebung">Embedded Intelligence Shift</a>
+                        <a href="https://experienceleague.adobe.com/de/on-demand-events/embedded-intelligence" target="_blank" rel="referrer" title="Integrierte Intelligenzverschiebung">Embedded Intelligence Shift</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Adobe Experience Cloud unterstützende Intelligenz einführt, um die Entscheidungsfindung zu verbessern und insight-Aktionszyklen zu beschleunigen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/on-demand-events/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -51,7 +51,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-agents" title="KI-Agenten in AEP - ein Überblick" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-agents" title="KI-Agenten in AEP - ein Überblick" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1791840290152" alt="KI-Agenten in AEP - ein Überblick"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -60,11 +60,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-agents" target="_blank" rel="referrer" title="KI-Agenten in AEP - ein Überblick">KI-Agenten in AEP - Ein Überblick</a>
+                        <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-agents" target="_blank" rel="referrer" title="KI-Agenten in AEP - ein Überblick">KI-Agenten in AEP - Ein Überblick</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie KI-Agenten in Adobe Experience Platform die Effizienz steigern, echte Anwendungsfälle unterstützen und Mehrwert bieten. Entdecken Sie Vision, Roadmap und Anleitungen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-agents" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-agents" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -80,8 +80,8 @@ CARDS  ****
 
 {cta = Watch}
 
-* https://experienceleague.adobe.com/en/on-demand-events/ai-beyond-basics
-* https://experienceleague.adobe.com/en/on-demand-events/cja-data-insights-agent
+* https://experienceleague.adobe.com/de/on-demand-events/ai-beyond-basics
+* https://experienceleague.adobe.com/de/on-demand-events/cja-data-insights-agent
 * https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja
 * https://experienceleague.adobe.com/de/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents
 -->
@@ -91,7 +91,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-beyond-basics" title="KI-Assistent - Über die Grundlagen hinaus" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-beyond-basics" title="KI-Assistent - Über die Grundlagen hinaus" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463367/?captions=ger&format=jpeg&nocache=1791840290822" alt="KI-Assistent - Über die Grundlagen hinaus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -100,11 +100,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-beyond-basics" target="_blank" rel="referrer" title="KI-Assistent - Über die Grundlagen hinaus">KI-Assistent - Über die Grundlagen hinaus</a>
+                        <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-beyond-basics" target="_blank" rel="referrer" title="KI-Assistent - Über die Grundlagen hinaus">KI-Assistent - Über die Grundlagen hinaus</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie den KI-Assistenten in AEP zuverlässig verwenden können. Er umfasst die Einrichtung, wichtige Anwendungsfälle, praktische Tipps und bevorstehende Funktionen, um die Workflow-Effizienz und die Marketing-Wirkung zu steigern.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-beyond-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-beyond-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -114,7 +114,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/cja-data-insights-agent" title="Konversationen mit Ihren Daten - CJA Data Insights Agent" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/on-demand-events/cja-data-insights-agent" title="Konversationen mit Ihren Daten - CJA Data Insights Agent" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1791840290776" alt="Konversationen mit Ihren Daten - CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -123,11 +123,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/cja-data-insights-agent" target="_blank" rel="referrer" title="Konversationen mit Ihren Daten - CJA Data Insights Agent">Konversationen mit Ihren Daten - CJA Data Insights Agent</a>
+                        <a href="https://experienceleague.adobe.com/de/on-demand-events/cja-data-insights-agent" target="_blank" rel="referrer" title="Konversationen mit Ihren Daten - CJA Data Insights Agent">Konversationen mit Ihren Daten - CJA Data Insights Agent</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Adobe CJA KI durch Datenanalyse in natürlicher Sprache für umsetzbare Einblicke und effiziente Entscheidungsfindung nutzt.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/cja-data-insights-agent" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/on-demand-events/cja-data-insights-agent" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -250,8 +250,8 @@ CARDS  ****
 
 {cta = Watch}
 
-* https://experienceleague.adobe.com/en/on-demand-events/accelerating-digital-experience-optimization
-* https://experienceleague.adobe.com/en/on-demand-events/ai-adobe-target
+* https://experienceleague.adobe.com/de/on-demand-events/accelerating-digital-experience-optimization
+* https://experienceleague.adobe.com/de/on-demand-events/ai-adobe-target
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -259,7 +259,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/accelerating-digital-experience-optimization" title="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/on-demand-events/accelerating-digital-experience-optimization" title="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1791840292430" alt="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -268,11 +268,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/accelerating-digital-experience-optimization" target="_blank" rel="referrer" title="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen">Beschleunigung der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen</a>
+                        <a href="https://experienceleague.adobe.com/de/on-demand-events/accelerating-digital-experience-optimization" target="_blank" rel="referrer" title="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen">Beschleunigung der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie KI in Adobe Analytics, Target und CJA die Geschwindigkeit, Personalisierung und kanalübergreifende Optimierung von insight steigert, um intelligentere, schnellere Marketing-Entscheidungen zu treffen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/accelerating-digital-experience-optimization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/on-demand-events/accelerating-digital-experience-optimization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -282,7 +282,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-adobe-target" title="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-adobe-target" title="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1791840292451" alt="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -291,11 +291,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-adobe-target" target="_blank" rel="referrer" title="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target">Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target</a>
+                        <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-adobe-target" target="_blank" rel="referrer" title="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target">Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target</a>
                     </p>
                     <p class="is-size-6">Entdecken Sie Best Practices für A/B-Tests und KI-Personalisierung mit Adobe Target, CJA und RTCDP, um dynamische, plattformübergreifende Inhalte und Erkenntnisse zu fördern.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/on-demand-events/ai-adobe-target" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/on-demand-events/ai-adobe-target" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
