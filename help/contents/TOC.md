@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar-Bibliothek
 breadcrumb-title: Ultimate Success Webinar-Bibliothek
 user-guide-description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 nudge: true
-source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
+source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '299'
 ht-degree: 0%
 ---
 
@@ -66,4 +66,5 @@ ht-degree: 0%
   + {hide-from-toc}[Skalieren der Produktion mit Campaign Email Designer](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[KI-Investitionen mit geschäftlichen Auswirkungen verbinden](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc}[Nachhaltige KI-Einführung](../contents/2026/sustainable-ai-adoption.md)
+  + {hide-from-toc}[Marketo AI-Toolkit](../contents/2026/marketo-ai-toolkit.md)
 
