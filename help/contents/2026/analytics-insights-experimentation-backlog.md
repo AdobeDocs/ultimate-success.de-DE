@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Teams für digitale Erlebnisse haben oft Zugriff auf umfangreiche Analysedaten, es fehlt jedoch ein klarer Weg von insight zu Maßnahmen. In dieser Sitzung wird untersucht, wie Adobe Analytics und Customer Journey Analytics systematisch nach Reibungspunkten durchsucht, in priorisierte, testbare Hypothesen umgewandelt und zur kontinuierlichen Optimierung in Adobe Target und Journey Optimizer integriert werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508245/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508273/?captions=ger&learn=on&enablevpops)
 
 ## Was Sie lernen werden
 
