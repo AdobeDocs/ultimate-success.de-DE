@@ -2,9 +2,9 @@
 title: Ultimate Success-Webinare
 description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 hide: true
-source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
+source-git-commit: 35b838f2553e462a3f6e4f202e7440e049adef2f
 workflow-type: tm+mt
-source-wordcount: '19250'
+source-wordcount: '19352'
 ht-degree: 33%
 ---
 
@@ -31,7 +31,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/analytics-insights-experimentation-backlog.md" title="Umwandeln von Analytics Insights in einen Experimentier-Rückstand" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508273/?captions=ger&format=jpeg&nocache=1794588214567" alt="Umwandeln von Analytics Insights in einen Experimentier-Rückstand"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508273/?captions=ger&format=jpeg&nocache=1795191933645" alt="Umwandeln von Analytics Insights in einen Experimentier-Rückstand"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -52,7 +52,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Kampagne
+## Campaign
 
 **2026**
 
@@ -72,7 +72,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/scale-production-campaign-email-designer.md" title="Skalieren der Produktion mit Campaign Email Designer und Inhaltsvorlagen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504828/?format=jpeg&nocache=1794588215065" alt="Skalieren der Produktion mit Campaign Email Designer und Inhaltsvorlagen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504828/?format=jpeg&nocache=1795191934015" alt="Skalieren der Produktion mit Campaign Email Designer und Inhaltsvorlagen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -95,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/getting-started-campaign-rest-apis.md" title="Schnellstart für die Integration - Erste Schritte mit Campaign-REST-APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504661/?captions=ger&format=jpeg&nocache=1794588215054" alt="Schnellstart für die Integration - Erste Schritte mit Campaign-REST-APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504661/?captions=ger&format=jpeg&nocache=1795191934027" alt="Schnellstart für die Integration - Erste Schritte mit Campaign-REST-APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/enriching-adobe-commerce" title="Adobe Commerce mit Adobe Experience Platform anreichern" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1794588216591" alt="Adobe Commerce mit Adobe Experience Platform anreichern"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1795191935978" alt="Adobe Commerce mit Adobe Experience Platform anreichern"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -157,7 +157,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/transforming-b2b-commerce" title="Transformieren von B2B- und B2B2C-Commerce mit Personalization und Automatisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1794588216580" alt="Transformieren von B2B- und B2B2C-Commerce mit Personalization und Automatisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1795191935908" alt="Transformieren von B2B- und B2B2C-Commerce mit Personalization und Automatisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -197,7 +197,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/coworker-ai-teammate.md" title="Adobe Coworker - Your AI Team Mate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508228/?format=jpeg&nocache=1794588216783" alt="Adobe Coworker - Your AI Team Mate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508228/?format=jpeg&nocache=1795191936326" alt="Adobe Coworker - Your AI Team Mate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,7 +244,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/cja-stitching.md" title="Erhöhen von kanalübergreifenden Einblicken mit Adobe Customer Journey Analytics-Zuordnung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497282/?format=jpeg&nocache=1794588217098" alt="Erhöhen von kanalübergreifenden Einblicken mit Adobe Customer Journey Analytics-Zuordnung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497282/?format=jpeg&nocache=1795191936692" alt="Erhöhen von kanalübergreifenden Einblicken mit Adobe Customer Journey Analytics-Zuordnung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -267,7 +267,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/cja4t-mobile-app-personalization.md" title="Von Experiment zu Insight - CJA4T für Mobile App Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496985/?captions=ger&format=jpeg&nocache=1794588217155" alt="Von Experiment zu Insight - CJA4T für Mobile App Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496985/?captions=ger&format=jpeg&nocache=1795191936715" alt="Von Experiment zu Insight - CJA4T für Mobile App Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,7 +290,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/aa-to-cja-migration-roadmap.md" title="Von Adobe Analytics zu Customer Journey Analytics - Ihre Migrationsplanung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496954/?format=jpeg&nocache=1794588217134" alt="Von Adobe Analytics zu Customer Journey Analytics - Ihre Migrationsplanung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496954/?format=jpeg&nocache=1795191936673" alt="Von Adobe Analytics zu Customer Journey Analytics - Ihre Migrationsplanung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,7 +313,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/data-collection-troubleshooting.md" title="Fehlerbehebung bei der Datenerfassung - Tipps, Tricks und Best Practices für die Governance" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496955/?format=jpeg&nocache=1794588217106" alt="Fehlerbehebung bei der Datenerfassung - Tipps, Tricks und Best Practices für die Governance"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496955/?format=jpeg&nocache=1795191936684" alt="Fehlerbehebung bei der Datenerfassung - Tipps, Tricks und Best Practices für die Governance"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -336,7 +336,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/scaling-ai-agents.md" title="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1794588217124" alt="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1795191936725" alt="Skalieren von Adobe AI-Agenten - Audience Agent und Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -359,7 +359,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/shared-components-cja.md" title="Freigegebene CJA-Komponenten - Einmal einrichten, überall verwenden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491222/?format=jpeg&nocache=1794588217145" alt="Freigegebene CJA-Komponenten - Einmal einrichten, überall verwenden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491222/?format=jpeg&nocache=1795191936734" alt="Freigegebene CJA-Komponenten - Einmal einrichten, überall verwenden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -382,7 +382,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/data-insights-agent-cja.md" title="Operationalisieren von Adobe Data Insights Agent in CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1794588217113" alt="Operationalisieren von Adobe Data Insights Agent in CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1795191936703" alt="Operationalisieren von Adobe Data Insights Agent in CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -405,7 +405,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="BRD-SDR-Dateierstellung für Analytics und Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1794588217645" alt="BRD-SDR-Dateierstellung für Analytics und Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1795191937774" alt="BRD-SDR-Dateierstellung für Analytics und Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -451,7 +451,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-success" title="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Customer Journey Analytics Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470863/?captions=ger&format=jpeg&nocache=1794588218531" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Customer Journey Analytics Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470863/?captions=ger&format=jpeg&nocache=1795191939238" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Customer Journey Analytics Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -474,7 +474,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-adoption" title="Strategien zur Änderungsverwaltung für die Einführung von Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1794588218402" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1795191939373" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -497,7 +497,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-data-insights-agent" title="Konversationen mit Ihren Daten - CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1794588218547" alt="Konversationen mit Ihren Daten - CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1795191939335" alt="Konversationen mit Ihren Daten - CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -520,7 +520,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-shared-audiences" title="Erstellen von Angeboten in 30 Minuten mit CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477470/?captions=ger&format=jpeg&nocache=1794588218420" alt="Erstellen von Angeboten in 30 Minuten mit CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477470/?captions=ger&format=jpeg&nocache=1795191939366" alt="Erstellen von Angeboten in 30 Minuten mit CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -543,7 +543,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-operating-model" title="Entwerfen eines Betriebsmodells für CJA Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1794588218783" alt="Entwerfen eines Betriebsmodells für CJA Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1795191939141" alt="Entwerfen eines Betriebsmodells für CJA Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -566,7 +566,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-vision" title="Grundlegende Architektur, die für die Umsetzung der Vision von Adobe Customer Journey Analytics erforderlich ist" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1794588218573" alt="Grundlegende Architektur, die für die Umsetzung der Vision von Adobe Customer Journey Analytics erforderlich ist"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1795191939478" alt="Grundlegende Architektur, die für die Umsetzung der Vision von Adobe Customer Journey Analytics erforderlich ist"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -589,7 +589,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/analytics-to-cja-migration" title="Best Practices für die Migration von Adobe Analytics zu Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1794588218598" alt="Best Practices für die Migration von Adobe Analytics zu Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1795191940631" alt="Best Practices für die Migration von Adobe Analytics zu Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -612,7 +612,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/roadmap-to-value-cja" title="Nutzen-Roadmap für CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1794588218514" alt="Nutzen-Roadmap für CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1795191939263" alt="Nutzen-Roadmap für CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -654,7 +654,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/lean-teams-cja" title="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457017/?captions=ger&format=jpeg&nocache=1794588219577" alt="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457017/?captions=ger&format=jpeg&nocache=1795191941736" alt="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -677,7 +677,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/basic-to-intermediate-analysis-capabilities" title="Adobe Analytics und CJA - Schnellstart für grundlegende bis mittlere Analysefunktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1794588219569" alt="Adobe Analytics und CJA - Schnellstart für grundlegende bis mittlere Analysefunktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1795191942253" alt="Adobe Analytics und CJA - Schnellstart für grundlegende bis mittlere Analysefunktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -700,7 +700,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/mastering-cookies-data-privacy" title="Privacy-First Analytics - Beherrschen von Cookies und Datenschutz in Adobe Analytics und Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1794588219702" alt="Privacy-First Analytics - Beherrschen von Cookies und Datenschutz in Adobe Analytics und Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1795191942054" alt="Privacy-First Analytics - Beherrschen von Cookies und Datenschutz in Adobe Analytics und Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -723,7 +723,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/sequential-logic" title="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Foundations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1794588219632" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Foundations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1795191942026" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Foundations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -778,7 +778,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md" title="Inhaltsoperationen - Mit dem AEM AI Assistant und Adobe CX Enterprise Coworker von Antworten bis zu Ergebnissen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504830/?format=jpeg&nocache=1794588220056" alt="Inhaltsoperationen - Mit dem AEM AI Assistant und Adobe CX Enterprise Coworker von Antworten bis zu Ergebnissen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504830/?format=jpeg&nocache=1795191942535" alt="Inhaltsoperationen - Mit dem AEM AI Assistant und Adobe CX Enterprise Coworker von Antworten bis zu Ergebnissen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -801,7 +801,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/metadata-backbone-content-at-scale.md" title="Getaggt, gesteuert, aktiviert - das Metadaten-Backbone für skalierbare Inhalte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503635/?format=jpeg&nocache=1794588219990" alt="Getaggt, gesteuert, aktiviert - das Metadaten-Backbone für skalierbare Inhalte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503635/?format=jpeg&nocache=1795191942528" alt="Getaggt, gesteuert, aktiviert - das Metadaten-Backbone für skalierbare Inhalte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -824,7 +824,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-assisted-development.md" title="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1794588220022" alt="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1795191942556" alt="AEM Agent Skills - KI-unterstützte Entwicklung richtig gemacht"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -847,7 +847,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-features-aem-assets.md" title="KI-Funktionen in Adobe Experience Manager Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1794588219978" alt="KI-Funktionen in Adobe Experience Manager Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1795191942563" alt="KI-Funktionen in Adobe Experience Manager Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -870,7 +870,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/genai-agents-aem.md" title="Lernen Sie Ihre neuen Kollegen kennen - die GenAI-Agenten von Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495848/?format=jpeg&nocache=1794588220028" alt="Lernen Sie Ihre neuen Kollegen kennen - die GenAI-Agenten von Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495848/?format=jpeg&nocache=1795191942543" alt="Lernen Sie Ihre neuen Kollegen kennen - die GenAI-Agenten von Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -893,7 +893,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/multi-region-teams.md" title="Skalierte AEM Governance - Verwaltung von Teams in mehreren Regionen und KI-generierten Inhalten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496404/?format=jpeg&nocache=1794588220007" alt="Skalierte AEM Governance - Verwaltung von Teams in mehreren Regionen und KI-generierten Inhalten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496404/?format=jpeg&nocache=1795191942550" alt="Skalierte AEM Governance - Verwaltung von Teams in mehreren Regionen und KI-generierten Inhalten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -916,7 +916,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/effective-use-case-statements.md" title="Erstellen effektiver Anwendungsfallaussagen zur Steigerung des Geschäftswerts" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491510/?format=jpeg&nocache=1794588220014" alt="Erstellen effektiver Anwendungsfallaussagen zur Steigerung des Geschäftswerts"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491510/?format=jpeg&nocache=1795191942569" alt="Erstellen effektiver Anwendungsfallaussagen zur Steigerung des Geschäftswerts"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -939,7 +939,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/optimize-aem-for-geo.md" title="Von SEO zu GEO - Optimierung von AEM Sites für Web-Performance und KI-Erkennung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491282/?captions=ger&format=jpeg&nocache=1794588219998" alt="Von SEO zu GEO - Optimierung von AEM Sites für Web-Performance und KI-Erkennung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491282/?captions=ger&format=jpeg&nocache=1795191942588" alt="Von SEO zu GEO - Optimierung von AEM Sites für Web-Performance und KI-Erkennung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -962,7 +962,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491249/?captions=ger&format=jpeg&nocache=1794588220065" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491249/?captions=ger&format=jpeg&nocache=1795191942578" alt="Mehrwert für Content Supply chain - ein strukturiertes Framework und eine Messungs-Scorecard"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -985,7 +985,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="Schnelle, bearbeitbare Sites mit universellem Editor und modernen SSR-Frameworks" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1794588220044" alt="Schnelle, bearbeitbare Sites mit universellem Editor und modernen SSR-Frameworks"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1795191942607" alt="Schnelle, bearbeitbare Sites mit universellem Editor und modernen SSR-Frameworks"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1008,7 +1008,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-visibility.md" title="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1794588220035" alt="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1795191942597" alt="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1031,7 +1031,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Authoring in Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1794588220480" alt="Authoring in Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1795191943509" alt="Authoring in Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1054,7 +1054,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Inhaltslieferketten maximieren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1794588220628" alt="Inhaltslieferketten maximieren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1795191943651" alt="Inhaltslieferketten maximieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1077,7 +1077,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="Moderne Versandmodelle für AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478784/?captions=ger&format=jpeg&nocache=1794588220664" alt="Moderne Versandmodelle für AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478784/?captions=ger&format=jpeg&nocache=1795191943702" alt="Moderne Versandmodelle für AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1100,7 +1100,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="Strategische Vorteile von AEM Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1794588220752" alt="Strategische Vorteile von AEM Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1795191943466" alt="Strategische Vorteile von AEM Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1149,7 +1149,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/personalized-experiences-aem" title="Mehr als nur eine Seite - Schnelle, flexible und personalisierte Erlebnisse mit der aufstrebenden Technologie von AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1794588221554" alt="Mehr als nur eine Seite - Schnelle, flexible und personalisierte Erlebnisse mit der aufstrebenden Technologie von AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1795191945159" alt="Mehr als nur eine Seite - Schnelle, flexible und personalisierte Erlebnisse mit der aufstrebenden Technologie von AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1172,7 +1172,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-lucene-search" title="Wichtige Tipps und Best Practices für die AEM Lucene-Suche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1794588221700" alt="Wichtige Tipps und Best Practices für die AEM Lucene-Suche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1795191945256" alt="Wichtige Tipps und Best Practices für die AEM Lucene-Suche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1195,7 +1195,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-genai" title="AEM mit GenAI - skalierbare Transformation der Inhaltserstellung und -bereitstellung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1794588221758" alt="AEM mit GenAI - skalierbare Transformation der Inhaltserstellung und -bereitstellung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1795191945418" alt="AEM mit GenAI - skalierbare Transformation der Inhaltserstellung und -bereitstellung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1218,7 +1218,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-workfront-integration" title="Integration von AEM und Workfront mithilfe des nativen Connectors" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1794588221309" alt="Integration von AEM und Workfront mithilfe des nativen Connectors"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1795191945201" alt="Integration von AEM und Workfront mithilfe des nativen Connectors"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1241,7 +1241,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/ai-assistant-in-aem" title="KI-Assistent in AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1794588221683" alt="KI-Assistent in AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1795191945195" alt="KI-Assistent in AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1264,7 +1264,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/build-effective-web-pages" title="Erstellen effektiver Web-Seiten in AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1794588221735" alt="Erstellen effektiver Web-Seiten in AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1795191945131" alt="Erstellen effektiver Web-Seiten in AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1287,7 +1287,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/mastering-aem-sites" title="Meistern von AEM Sites - Vorlagen, Navigation und SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464324/?captions=ger&format=jpeg&nocache=1794588221817" alt="Meistern von AEM Sites - Vorlagen, Navigation und SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464324/?captions=ger&format=jpeg&nocache=1795191944926" alt="Meistern von AEM Sites - Vorlagen, Navigation und SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1310,7 +1310,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/mastering-dam-aem-content-hub" title="Meistern des Digital Asset Management - Best Practices mit Adobe ContentHub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1794588221530" alt="Meistern des Digital Asset Management - Best Practices mit Adobe ContentHub"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1795191945059" alt="Meistern des Digital Asset Management - Best Practices mit Adobe ContentHub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1333,7 +1333,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/dynamic-media-open-ai" title="Meistern von Dynamic Media mit Open API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1794588221608" alt="Meistern von Dynamic Media mit Open API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1795191944996" alt="Meistern von Dynamic Media mit Open API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1356,7 +1356,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/new-relic-essentials-aem-cloud" title="New Relic Essentials für AEM Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1794588221535" alt="New Relic Essentials für AEM Cloud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1795191944872" alt="New Relic Essentials für AEM Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1379,7 +1379,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/optimize-aem-performance" title="Optimieren der AEM-Leistung - Caching-Strategien und -Techniken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1794588221653" alt="Optimieren der AEM-Leistung - Caching-Strategien und -Techniken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1795191944947" alt="Optimieren der AEM-Leistung - Caching-Strategien und -Techniken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1402,7 +1402,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/modern-aem-authoring" title="Überblick über den universellen Editor für das moderne Adobe Experience Manager-Authoring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1794588221646" alt="Überblick über den universellen Editor für das moderne Adobe Experience Manager-Authoring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1795191945082" alt="Überblick über den universellen Editor für das moderne Adobe Experience Manager-Authoring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1442,7 +1442,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/aem-authoring-concepts" title="AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1794588222594" alt="AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1795191946635" alt="AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1465,7 +1465,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/aem-sites-efficiencies" title="AEM Sites-Effizienz - Leistungsoptimierung, Konfiguration und Fehlerbehebung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1794588222600" alt="AEM Sites-Effizienz - Leistungsoptimierung, Konfiguration und Fehlerbehebung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1795191946808" alt="AEM Sites-Effizienz - Leistungsoptimierung, Konfiguration und Fehlerbehebung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1488,7 +1488,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" title="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1794588222716" alt="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1795191946654" alt="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1533,7 +1533,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/strategic-planning-cxo-success.md" title="Strategische Planung für CXO-Erfolg - Abstimmung von Anwendungsfällen, Architektur und Maßnahmen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502966/?format=jpeg&nocache=1794588223028" alt="Strategische Planung für CXO-Erfolg - Abstimmung von Anwendungsfällen, Architektur und Maßnahmen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502966/?format=jpeg&nocache=1795191947037" alt="Strategische Planung für CXO-Erfolg - Abstimmung von Anwendungsfällen, Architektur und Maßnahmen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1556,7 +1556,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/use-cases-into-business-outcomes.md" title="Anwendungsfälle in Geschäftsergebnisse umwandeln" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497955/?format=jpeg&nocache=1794588223041" alt="Anwendungsfälle in Geschäftsergebnisse umwandeln"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497955/?format=jpeg&nocache=1795191947022" alt="Anwendungsfälle in Geschäftsergebnisse umwandeln"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1579,7 +1579,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/understand-adobe-ai-agentic-architecture.md" title="Grundlegendes zur KI und Agentenarchitektur von Adobe für Geschäftsanforderungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496965/?captions=ger&format=jpeg&nocache=1794588223035" alt="Grundlegendes zur KI und Agentenarchitektur von Adobe für Geschäftsanforderungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496965/?captions=ger&format=jpeg&nocache=1795191947029" alt="Grundlegendes zur KI und Agentenarchitektur von Adobe für Geschäftsanforderungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1602,7 +1602,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unlock-federated-audience-composition.md" title="Ermöglichen der föderierten Zielgruppenkomposition in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491512/?format=jpeg&nocache=1794588223022" alt="Ermöglichen der föderierten Zielgruppenkomposition in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491512/?format=jpeg&nocache=1795191947043" alt="Ermöglichen der föderierten Zielgruppenkomposition in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1625,7 +1625,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unified-audiences.md" title="Ermöglichen der Federated Audience Composition (FAC) in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1794588223047" alt="Ermöglichen der Federated Audience Composition (FAC) in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1795191947050" alt="Ermöglichen der Federated Audience Composition (FAC) in AEP - von Datensilos bis hin zu einheitlichen Zielgruppen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1648,7 +1648,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="Integrierte Intelligenzverschiebung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1794588223844" alt="Integrierte Intelligenzverschiebung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1795191948483" alt="Integrierte Intelligenzverschiebung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1693,7 +1693,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/ai-agents" title="KI-Agenten in AEP - ein Überblick" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1794588224705" alt="KI-Agenten in AEP - ein Überblick"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1795191949633" alt="KI-Agenten in AEP - ein Überblick"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1716,7 +1716,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/ai-beyond-basics" title="KI-Assistent - Über die Grundlagen hinaus" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463367/?captions=ger&format=jpeg&nocache=1794588224644" alt="KI-Assistent - Über die Grundlagen hinaus"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463367/?captions=ger&format=jpeg&nocache=1795191949963" alt="KI-Assistent - Über die Grundlagen hinaus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1739,7 +1739,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/model-xdm-schemas" title="Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1794588224789" alt="Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1795191949799" alt="Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1762,7 +1762,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/data-distiller-101" title="Data Distiller 101" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1794588224636" alt="Data Distiller 101"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1795191949784" alt="Data Distiller 101"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1785,7 +1785,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/identity-graph" title="Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1794588224591" alt="Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1795191950092" alt="Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1808,7 +1808,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/exec-sponsorship-aep-projects" title="Gewinner des Executive Sponsoring für Adobe Experience Platform-Projekte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1794588224529" alt="Gewinner des Executive Sponsoring für Adobe Experience Platform-Projekte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1795191949683" alt="Gewinner des Executive Sponsoring für Adobe Experience Platform-Projekte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1851,7 +1851,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/aep-apps-services-integrations" title="Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1794588226243" alt="Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1795191951646" alt="Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1874,7 +1874,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/aep-use-case-planning" title="Von der Vision zum Wert - AEP-Anwendungsfallplanung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1794588226156" alt="Von der Vision zum Wert - AEP-Anwendungsfallplanung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1795191951334" alt="Von der Vision zum Wert - AEP-Anwendungsfallplanung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1897,7 +1897,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/aep-marketo-integration" title="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433677/?captions=ger&format=jpeg&nocache=1794588226580" alt="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433677/?captions=ger&format=jpeg&nocache=1795191951089" alt="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1920,7 +1920,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/data-stream-prioritization" title="Datenstrom-Priorisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456814/?captions=ger&format=jpeg&nocache=1794588226216" alt="Datenstrom-Priorisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456814/?captions=ger&format=jpeg&nocache=1795191951292" alt="Datenstrom-Priorisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1968,7 +1968,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/adobe-ai-agents-in-practice.md" title="Adobe AI-Agenten in der Praxis - Identifizierung und Definition praktischer Anwendungsfälle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508247/?format=jpeg&nocache=1794588226869" alt="Adobe AI-Agenten in der Praxis - Identifizierung und Definition praktischer Anwendungsfälle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508247/?format=jpeg&nocache=1795191951921" alt="Adobe AI-Agenten in der Praxis - Identifizierung und Definition praktischer Anwendungsfälle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1991,7 +1991,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/sustainable-ai-adoption.md" title="KI-Bereitschaft - Vorbereitung auf die Einführung einer nachhaltigen KI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505912/?format=jpeg&nocache=1794588226844" alt="KI-Bereitschaft - Vorbereitung auf die Einführung einer nachhaltigen KI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505912/?format=jpeg&nocache=1795191951914" alt="KI-Bereitschaft - Vorbereitung auf die Einführung einer nachhaltigen KI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2014,7 +2014,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-agentic-investments-to-business-impact.md" title="KI-Investitionen mit geschäftlichen Auswirkungen verbinden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505410/?format=jpeg&nocache=1794588226835" alt="KI-Investitionen mit geschäftlichen Auswirkungen verbinden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505410/?format=jpeg&nocache=1795191951907" alt="KI-Investitionen mit geschäftlichen Auswirkungen verbinden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2037,7 +2037,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/building-for-ai-scale.md" title="Von der Inhaltserstellung zur Erlebnisproduktion - Erstellung für KI-Skalierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504068/?format=jpeg&nocache=1794588226860" alt="Von der Inhaltserstellung zur Erlebnisproduktion - Erstellung für KI-Skalierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504068/?format=jpeg&nocache=1795191951892" alt="Von der Inhaltserstellung zur Erlebnisproduktion - Erstellung für KI-Skalierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2060,7 +2060,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/operational-drift.md" title="Überwindung operativer Verlagerungen - Aufrechterhaltung der Akzeptanz nach der Live-Schaltung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496403/?format=jpeg&nocache=1794588226851" alt="Überwindung operativer Verlagerungen - Aufrechterhaltung der Akzeptanz nach der Live-Schaltung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496403/?format=jpeg&nocache=1795191951899" alt="Überwindung operativer Verlagerungen - Aufrechterhaltung der Akzeptanz nach der Live-Schaltung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2083,7 +2083,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management" title="VRA-Sitzung 5 - Strategien für das Änderungs-Management zum Betrieb Ihres Content Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479826/?captions=ger&format=jpeg&nocache=1794588227766" alt="VRA-Sitzung 5 - Strategien für das Änderungs-Management zum Betrieb Ihres Content Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479826/?captions=ger&format=jpeg&nocache=1795191953059" alt="VRA-Sitzung 5 - Strategien für das Änderungs-Management zum Betrieb Ihres Content Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2106,7 +2106,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-executive-sponsorship" title="Etablieren von Executive Sponsoring, um den Erfolg im gesamten Content Supply chain zu steigern" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479847/?format=jpeg&nocache=1794588227463" alt="Etablieren von Executive Sponsoring, um den Erfolg im gesamten Content Supply chain zu steigern"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479847/?format=jpeg&nocache=1795191953181" alt="Etablieren von Executive Sponsoring, um den Erfolg im gesamten Content Supply chain zu steigern"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2129,7 +2129,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-architecture" title="Grundlegende Architektur zur Unterstützung Ihres Inhalts Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479507/?format=jpeg&nocache=1794588227654" alt="Grundlegende Architektur zur Unterstützung Ihres Inhalts Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479507/?format=jpeg&nocache=1795191952796" alt="Grundlegende Architektur zur Unterstützung Ihres Inhalts Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2152,7 +2152,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-operating-model" title="Entwerfen eines Betriebsmodells für den Erfolg von Content Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479848/?format=jpeg&nocache=1794588227789" alt="Entwerfen eines Betriebsmodells für den Erfolg von Content Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479848/?format=jpeg&nocache=1795191952834" alt="Entwerfen eines Betriebsmodells für den Erfolg von Content Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2194,7 +2194,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/impactful-insights" title="Impactful Insights - Ausarbeitung von Strategien für effektive Messung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1794588228560" alt="Impactful Insights - Ausarbeitung von Strategien für effektive Messung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1795191954398" alt="Impactful Insights - Ausarbeitung von Strategien für effektive Messung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2217,7 +2217,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/agile-marketing-organization" title="Agile-Marketing-Organisation kultivieren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1794588228530" alt="Agile-Marketing-Organisation kultivieren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1795191954569" alt="Agile-Marketing-Organisation kultivieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2240,7 +2240,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/practical-business-use-cases" title="Entwickeln praktischer B2B-Anwendungsfälle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1794588228633" alt="Entwickeln praktischer B2B-Anwendungsfälle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1795191954433" alt="Entwickeln praktischer B2B-Anwendungsfälle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2263,7 +2263,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/digital-trends-preparing-future" title="Digitale Trends und Vorbereitung auf die Zukunft" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1794588228423" alt="Digitale Trends und Vorbereitung auf die Zukunft"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1795191954528" alt="Digitale Trends und Vorbereitung auf die Zukunft"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2286,7 +2286,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/northstar-architecture" title="In: EA Northstar Architecture Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1794588228608" alt="In: EA Northstar Architecture Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1795191954359" alt="In: EA Northstar Architecture Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2331,7 +2331,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/effective-change-management" title="Navigieren im Wandel - Ein Webinar für Führungskräfte zum Thema effektives Änderungs-Management" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1794588229260" alt="Navigieren im Wandel - Ein Webinar für Führungskräfte zum Thema effektives Änderungs-Management"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1795191956165" alt="Navigieren im Wandel - Ein Webinar für Führungskräfte zum Thema effektives Änderungs-Management"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2354,7 +2354,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/empowering-lean-teams" title="Lean-Teams stärken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1794588229563" alt="Lean-Teams stärken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1795191955932" alt="Lean-Teams stärken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2377,7 +2377,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/hyperpersonalization" title="Personalization Maturity - Der Weg zur Hyperpersonalisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457354/?captions=ger&format=jpeg&nocache=1794588229662" alt="Personalization Maturity - Der Weg zur Hyperpersonalisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457354/?captions=ger&format=jpeg&nocache=1795191955956" alt="Personalization Maturity - Der Weg zur Hyperpersonalisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2400,7 +2400,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/adobe-admin-console" title="Meistern der Adobe Admin Console" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1794588229520" alt="Meistern der Adobe Admin Console"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1795191956087" alt="Meistern der Adobe Admin Console"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2423,7 +2423,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/organizational-readiness-content-supply-chain" title="Erschließen der Leistungsfähigkeit von Adobe GenStudio Organizational Readiness zur Bewältigung von Herausforderungen mit Content Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1794588229414" alt="Erschließen der Leistungsfähigkeit von Adobe GenStudio Organizational Readiness zur Bewältigung von Herausforderungen mit Content Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1795191956118" alt="Erschließen der Leistungsfähigkeit von Adobe GenStudio Organizational Readiness zur Bewältigung von Herausforderungen mit Content Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2446,7 +2446,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/strategic-leadership" title="Strategische Führung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456792/?captions=ger&format=jpeg&nocache=1794588229545" alt="Strategische Führung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456792/?captions=ger&format=jpeg&nocache=1795191955858" alt="Strategische Führung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2469,7 +2469,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/streamline-authentication" title="Optimieren der Authentifizierung - Migration vom Dienstkonto (JWT) zu OAuth-Server-zu-Server-Anmeldeinformationen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1794588229657" alt="Optimieren der Authentifizierung - Migration vom Dienstkonto (JWT) zu OAuth-Server-zu-Server-Anmeldeinformationen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1795191955927" alt="Optimieren der Authentifizierung - Migration vom Dienstkonto (JWT) zu OAuth-Server-zu-Server-Anmeldeinformationen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2492,7 +2492,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/turning-data-into-action" title="Daten in Aktion umwandeln - Erstellen Ihrer Reporting-Erzählung mit Workfront Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508231/?format=jpeg&nocache=1794588229421" alt="Daten in Aktion umwandeln - Erstellen Ihrer Reporting-Erzählung mit Workfront Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508231/?format=jpeg&nocache=1795191955824" alt="Daten in Aktion umwandeln - Erstellen Ihrer Reporting-Erzählung mit Workfront Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2531,7 +2531,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/genstudio2025/csc-gen-studio" title="Entmystifizierung von Supply chain-Inhalten und Adobe GenStudio as a Product Suite" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472988/?captions=ger&format=jpeg&nocache=1794588230449" alt="Entmystifizierung von Supply chain-Inhalten und Adobe GenStudio as a Product Suite"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472988/?captions=ger&format=jpeg&nocache=1795191957669" alt="Entmystifizierung von Supply chain-Inhalten und Adobe GenStudio as a Product Suite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2554,7 +2554,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/genstudio2025/genstudio-for-performance-marketing-operating-model" title="GenStudio für Performance-Marketing - Betriebsmodell und Governance-Strategie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1794588230538" alt="GenStudio für Performance-Marketing - Betriebsmodell und Governance-Strategie"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1795191957762" alt="GenStudio für Performance-Marketing - Betriebsmodell und Governance-Strategie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2602,7 +2602,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-troubleshooting.md" title="Fehlerbehebung bei AJO - Finden der Grundursache" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508248/?format=jpeg&nocache=1794588231293" alt="Fehlerbehebung bei AJO - Finden der Grundursache"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508248/?format=jpeg&nocache=1795191957976" alt="Fehlerbehebung bei AJO - Finden der Grundursache"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2625,7 +2625,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/strategies-for-smarter-personalization.md" title="AJO Code-basierte Erlebnisse - Strategien für smartere Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504248/?format=jpeg&nocache=1794588231312" alt="AJO Code-basierte Erlebnisse - Strategien für smartere Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504248/?format=jpeg&nocache=1795191957989" alt="AJO Code-basierte Erlebnisse - Strategien für smartere Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2648,7 +2648,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-relelase-session.md" title="AJO-Produktversionssitzung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497685/?format=jpeg&nocache=1794588231264" alt="AJO-Produktversionssitzung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497685/?format=jpeg&nocache=1795191958016" alt="AJO-Produktversionssitzung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2671,7 +2671,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/journey-agent.md" title="Skalieren von Adobe-Agenten - Journey Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496957/?format=jpeg&nocache=1794588231244" alt="Skalieren von Adobe-Agenten - Journey Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496957/?format=jpeg&nocache=1795191957965" alt="Skalieren von Adobe-Agenten - Journey Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2694,7 +2694,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-use-cases.md" title="Von Ideen bis zur Wirkung - Generieren und Priorisieren von AJO-Anwendungsfällen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495850/?format=jpeg&nocache=1794588231254" alt="Von Ideen bis zur Wirkung - Generieren und Priorisieren von AJO-Anwendungsfällen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495850/?format=jpeg&nocache=1795191957971" alt="Von Ideen bis zur Wirkung - Generieren und Priorisieren von AJO-Anwendungsfällen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2717,7 +2717,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/maximize-ajo-value.md" title="Erstellen einer Strategie für das Kundenerlebnis zur Maximierung des AJO-Werts" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491513/?format=jpeg&nocache=1794588231271" alt="Erstellen einer Strategie für das Kundenerlebnis zur Maximierung des AJO-Werts"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491513/?format=jpeg&nocache=1795191957958" alt="Erstellen einer Strategie für das Kundenerlebnis zur Maximierung des AJO-Werts"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2740,7 +2740,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO-Produktversionssitzung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1794588231286" alt="AJO-Produktversionssitzung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1795191957982" alt="AJO-Produktversionssitzung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2763,7 +2763,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/intelligent-decsioning.md" title="Bereitstellung von Echtzeit-Kundenerlebnissen mit intelligenter Entscheidungsfindung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486514/?captions=ger&format=jpeg&nocache=1794588231279" alt="Bereitstellung von Echtzeit-Kundenerlebnissen mit intelligenter Entscheidungsfindung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486514/?captions=ger&format=jpeg&nocache=1795191958008" alt="Bereitstellung von Echtzeit-Kundenerlebnissen mit intelligenter Entscheidungsfindung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2786,7 +2786,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/change-management-deep-dive.md" title="Detaillierte Einblicke in die Änderungsverwaltung in Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1794588231301" alt="Detaillierte Einblicke in die Änderungsverwaltung in Adobe Journey Optimizer (AJO)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1795191957999" alt="Detaillierte Einblicke in die Änderungsverwaltung in Adobe Journey Optimizer (AJO)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2831,7 +2831,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/build-executive-sponsorship-ajo" title="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Journey Optimizer Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1794588232341" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Journey Optimizer Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1795191959582" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Journey Optimizer Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2854,7 +2854,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies" title="Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1794588232275" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1795191959466" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2877,7 +2877,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/design-an-operating-model-ajo" title="Entwerfen eines Betriebsmodells für AJO Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1794588232793" alt="Entwerfen eines Betriebsmodells für AJO Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1795191960434" alt="Entwerfen eines Betriebsmodells für AJO Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2900,7 +2900,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/journey-optimizer-essentials" title="Journey Optimizer Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1794588232372" alt="Journey Optimizer Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1795191959563" alt="Journey Optimizer Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2923,7 +2923,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/northstar-architecture-enable-adobe-journey-optimzier" title="Nutzung einer NorthStar-Architektur zur Unterstützung der Adobe Journey Optimizer-Vision" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1794588232480" alt="Nutzung einer NorthStar-Architektur zur Unterstützung der Adobe Journey Optimizer-Vision"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1795191959453" alt="Nutzung einer NorthStar-Architektur zur Unterstützung der Adobe Journey Optimizer-Vision"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2946,7 +2946,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/ajo-adobe-campaign" title="Modernisieren von Kampagnen mit Adobe Journey Optimizer und Adobe Campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477902/?captions=ger&format=jpeg&nocache=1794588232249" alt="Modernisieren von Kampagnen mit Adobe Journey Optimizer und Adobe Campaign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477902/?captions=ger&format=jpeg&nocache=1795191959520" alt="Modernisieren von Kampagnen mit Adobe Journey Optimizer und Adobe Campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2969,7 +2969,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/ajo-roadmap-to-value" title="Adobe Journey Optimizer-Reihe zur Wertschöpfung - Roadmap für Sitzung 1 mit Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1794588232269" alt="Adobe Journey Optimizer-Reihe zur Wertschöpfung - Roadmap für Sitzung 1 mit Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1795191959470" alt="Adobe Journey Optimizer-Reihe zur Wertschöpfung - Roadmap für Sitzung 1 mit Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3013,7 +3013,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/ajo-essentials" title="Adobe Journey Optimizer Essentials - Erstellen von Kampagnen, Kunden-Journey und Landingpages" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1794588233562" alt="Adobe Journey Optimizer Essentials - Erstellen von Kampagnen, Kunden-Journey und Landingpages"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1795191961823" alt="Adobe Journey Optimizer Essentials - Erstellen von Kampagnen, Kunden-Journey und Landingpages"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3036,7 +3036,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/ai-personalization" title="Maximieren von Benutzererlebnissen mit der KI-gesteuerten Personalization von Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1794588233511" alt="Maximieren von Benutzererlebnissen mit der KI-gesteuerten Personalization von Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1795191961867" alt="Maximieren von Benutzererlebnissen mit der KI-gesteuerten Personalization von Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3059,7 +3059,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/ai-copywriting" title="Inhaltsbeschleunigung mit KI-gestütztem Copywriting" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1794588233549" alt="Inhaltsbeschleunigung mit KI-gestütztem Copywriting"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1795191961743" alt="Inhaltsbeschleunigung mit KI-gestütztem Copywriting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3082,7 +3082,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/journey-optimizer-mobile-capabilities" title="Journey Optimizer Mobile-Funktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1794588233573" alt="Journey Optimizer Mobile-Funktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1795191962138" alt="Journey Optimizer Mobile-Funktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3105,7 +3105,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/getting-started-ajo-analysis" title="Erste Schritte mit Adobe Journey Optimizer Analysis in Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1794588233581" alt="Erste Schritte mit Adobe Journey Optimizer Analysis in Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1795191961765" alt="Erste Schritte mit Adobe Journey Optimizer Analysis in Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3128,7 +3128,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/edge-network-mobile-personalization" title="Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1794588233492" alt="Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1795191961938" alt="Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3168,7 +3168,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-visibility.md" title="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1794588233867" alt="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1795191962370" alt="Visibility im KI-Zeitalter mit Adobe LLM Optimizer &amp; Sites Optimizer gewinnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3210,7 +3210,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/marketo-ai-toolkit.md" title="Das Marketo AI Toolkit - Was ist live, was kommt als Nächstes, was sollte man zuerst ausprobieren?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508118/?format=jpeg&nocache=1794588234060" alt="Das Marketo AI Toolkit - Was ist live, was kommt als Nächstes, was sollte man zuerst ausprobieren?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508118/?format=jpeg&nocache=1795191962585" alt="Das Marketo AI Toolkit - Was ist live, was kommt als Nächstes, was sollte man zuerst ausprobieren?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3233,7 +3233,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/marketo-lead-management-best-practices.md" title="Best Practices für die Lead-Verwaltung in Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502997/?captions=ger&format=jpeg&nocache=1794588234045" alt="Best Practices für die Lead-Verwaltung in Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502997/?captions=ger&format=jpeg&nocache=1795191962579" alt="Best Practices für die Lead-Verwaltung in Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3256,7 +3256,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/email-campaigns.md" title="Verwenden von GenStudio for Performance Marketing und Marketo für E-Mail-Kampagnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491522/?captions=ger&format=jpeg&nocache=1794588234051" alt="Verwenden von GenStudio for Performance Marketing und Marketo für E-Mail-Kampagnen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491522/?captions=ger&format=jpeg&nocache=1795191962572" alt="Verwenden von GenStudio for Performance Marketing und Marketo für E-Mail-Kampagnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3295,7 +3295,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/marketo2025/marketo-new-email-editor" title="Neuer Marketo-E-Mail-Editor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477881/?format=jpeg&nocache=1794588235180" alt="Neuer Marketo-E-Mail-Editor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477881/?format=jpeg&nocache=1795191963955" alt="Neuer Marketo-E-Mail-Editor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3335,7 +3335,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/smarter-marketing-mix-modeler.md" title="Intelligentere Marketing-Entscheidungen mit Adobe Mix Modeler" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502958/?format=jpeg&nocache=1794588235379" alt="Intelligentere Marketing-Entscheidungen mit Adobe Mix Modeler"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502958/?format=jpeg&nocache=1795191964194" alt="Intelligentere Marketing-Entscheidungen mit Adobe Mix Modeler"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3381,7 +3381,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/content-supply-chain-basics" title="Grundlagen zu Content Supply chain - Integration von AEM, Analytics/CJA und Adobe Target für neue Anwender" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1794588236112" alt="Grundlagen zu Content Supply chain - Integration von AEM, Analytics/CJA und Adobe Target für neue Anwender"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1795191965536" alt="Grundlagen zu Content Supply chain - Integration von AEM, Analytics/CJA und Adobe Target für neue Anwender"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3404,7 +3404,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/accelerating-digital-experience-optimization" title="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1794588236174" alt="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1795191965385" alt="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3427,7 +3427,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/enhance-loyalty-programs" title="Verbessern von Treueprogrammen durch Personalization und Daten mit den Adobe-Lösungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1794588236159" alt="Verbessern von Treueprogrammen durch Personalization und Daten mit den Adobe-Lösungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1795191966101" alt="Verbessern von Treueprogrammen durch Personalization und Daten mit den Adobe-Lösungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3450,7 +3450,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/enhancing-personalization" title="Erweitern von Personalization - Integration Essentials für Adobe Target mit CJA und AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1794588236127" alt="Erweitern von Personalization - Integration Essentials für Adobe Target mit CJA und AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1795191965500" alt="Erweitern von Personalization - Integration Essentials für Adobe Target mit CJA und AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3473,7 +3473,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/gen-ai-experimentation" title="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444468/?captions=ger&format=jpeg&nocache=1794588236226" alt="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444468/?captions=ger&format=jpeg&nocache=1795191965541" alt="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3496,7 +3496,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/mastering-sequential-logic" title="Beherrschen der sequenziellen Logik in AA und CJA - Ein visuelles Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1794588236008" alt="Beherrschen der sequenziellen Logik in AA und CJA - Ein visuelles Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1795191965339" alt="Beherrschen der sequenziellen Logik in AA und CJA - Ein visuelles Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3519,7 +3519,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/sequential-logic-start-stop" title="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Startet und Stoppt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1794588236100" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Startet und Stoppt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1795191965573" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Startet und Stoppt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3557,7 +3557,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/web-sdk-migration" title="Web SDK Migration Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1794588237245" alt="Web SDK Migration Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1795191967493" alt="Web SDK Migration Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3587,17 +3587,41 @@ CARDS
 
 {cta = Watch}
 
+* ..//contents/2026/rtcdp-center-of-excellence.md
 * ../contents/2026/future-b2b-growth.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Designing an RTCDP Center of Excellence for Enterprise Scale">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="..//contents/2026/rtcdp-center-of-excellence.md" title="Entwurf eines RTCDP-Kompetenzzentrums für Unternehmen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508597/?format=jpeg&nocache=1795191967703" alt="Entwurf eines RTCDP-Kompetenzzentrums für Unternehmen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="..//contents/2026/rtcdp-center-of-excellence.md" target="_blank" rel="referrer" title="Entwurf eines RTCDP-Kompetenzzentrums für Unternehmen">Entwerfen eines RTCDP-Exzellenzzentrums für Unternehmen</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie Teams, Governance und Aktivierung rund um Adobe Experience Platform und Real-Time CDP für eine unternehmensweite Zusammenarbeit organisieren.</p>
+                </div>
+                <a href="..//contents/2026/rtcdp-center-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="with Adobe">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/future-b2b-growth.md" title="mit Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503927/?format=jpeg&nocache=1794588237455" alt="mit Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503927/?format=jpeg&nocache=1795191967716" alt="mit Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3638,7 +3662,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" title="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1794588238331" alt="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1795191969155" alt="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3661,7 +3685,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/getting-started-rtcdp" title="Real-Time Customer Data Platform - Erste Schritte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1794588238311" alt="Real-Time Customer Data Platform - Erste Schritte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1795191969187" alt="Real-Time Customer Data Platform - Erste Schritte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3684,7 +3708,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/ai-customer-experience" title="RTCDP Insights - Nutzen von KI für das Kundenerlebnis" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1794588238629" alt="RTCDP Insights - Nutzen von KI für das Kundenerlebnis"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1795191969262" alt="RTCDP Insights - Nutzen von KI für das Kundenerlebnis"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3707,7 +3731,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/use-case-mapping" title="Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1794588238749" alt="Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1795191969173" alt="Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3747,7 +3771,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/target2025/ai-adobe-target" title="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1794588239529" alt="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1795191970462" alt="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3785,7 +3809,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/target-personalization" title="Target Personalization - Erste Schritte mit Recommendations und Kategorieaffinität" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504891/?captions=ger&format=jpeg&nocache=1794588240248" alt="Target Personalization - Erste Schritte mit Recommendations und Kategorieaffinität"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504891/?captions=ger&format=jpeg&nocache=1795191971709" alt="Target Personalization - Erste Schritte mit Recommendations und Kategorieaffinität"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3829,7 +3853,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/wip-review-approval-gap.md" title="Vom Entwurf bis zur Lieferung - Schließung der Lücke zwischen Fertigungsprüfung und Genehmigung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503935/?captions=ger&format=jpeg&nocache=1794588240453" alt="Vom Entwurf bis zur Lieferung - Schließung der Lücke zwischen Fertigungsprüfung und Genehmigung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503935/?captions=ger&format=jpeg&nocache=1795191971983" alt="Vom Entwurf bis zur Lieferung - Schließung der Lücke zwischen Fertigungsprüfung und Genehmigung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3852,7 +3876,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/get-more-from-workfront-planning.md" title="Von der Strategie zur Ausführung - Mehr aus Workfront Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502977/?captions=ger&format=jpeg&nocache=1794588240473" alt="Von der Strategie zur Ausführung - Mehr aus Workfront Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502977/?captions=ger&format=jpeg&nocache=1795191971975" alt="Von der Strategie zur Ausführung - Mehr aus Workfront Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3875,7 +3899,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/scalable-operating-model.md" title="Governance ohne Stillstand - Erstellen eines skalierbaren Betriebsmodells für Marketing-Arbeiten in Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497156/?format=jpeg&nocache=1794588240463" alt="Governance ohne Stillstand - Erstellen eines skalierbaren Betriebsmodells für Marketing-Arbeiten in Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497156/?format=jpeg&nocache=1795191971959" alt="Governance ohne Stillstand - Erstellen eines skalierbaren Betriebsmodells für Marketing-Arbeiten in Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3898,7 +3922,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/brand-experience-agent.md" title="Skalierung von Adobe-Agenten - Brand Experience Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496974/?captions=ger&format=jpeg&nocache=1794588240443" alt="Skalierung von Adobe-Agenten - Brand Experience Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496974/?captions=ger&format=jpeg&nocache=1795191971968" alt="Skalierung von Adobe-Agenten - Brand Experience Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3921,7 +3945,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unified-review-approvals-workfront.md" title="Warum Sie einheitliche Überprüfungen und Genehmigungen in Workfront wünschen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497102/?format=jpeg&nocache=1794588240429" alt="Warum Sie einheitliche Überprüfungen und Genehmigungen in Workfront wünschen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497102/?format=jpeg&nocache=1795191971951" alt="Warum Sie einheitliche Überprüfungen und Genehmigungen in Workfront wünschen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3963,7 +3987,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/workfront2025/unlock-efficiency-ai-drive-automation-workfront" title="Entfesseln Sie die Effizienz - KI-gesteuerte Automatisierung in Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1794588241434" alt="Entfesseln Sie die Effizienz - KI-gesteuerte Automatisierung in Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1795191973244" alt="Entfesseln Sie die Effizienz - KI-gesteuerte Automatisierung in Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3986,7 +4010,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/workfront2025/adobe-workfront-fusion-best-practices" title="Grundlagen und Best Practices zu Adobe Workfront Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1794588241382" alt="Grundlagen und Best Practices zu Adobe Workfront Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1795191973121" alt="Grundlagen und Best Practices zu Adobe Workfront Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -4009,7 +4033,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2025/workfront2025/workfront-and-jira" title="Workfront und JIRA - Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1794588241574" alt="Workfront und JIRA - Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1795191973355" alt="Workfront und JIRA - Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -4049,7 +4073,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-lean-teams" title="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456718/?captions=ger&format=jpeg&nocache=1794588242239" alt="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456718/?captions=ger&format=jpeg&nocache=1795191975097" alt="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -4072,7 +4096,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-mastery" title="Workfront-Beherrschung - Erfolgsstrategien" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505046/?captions=ger&format=jpeg&nocache=1794588242564" alt="Workfront-Beherrschung - Erfolgsstrategien"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505046/?captions=ger&format=jpeg&nocache=1795191974433" alt="Workfront-Beherrschung - Erfolgsstrategien"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -4095,7 +4119,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-admin-guardianship" title="Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1794588242604" alt="Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1795191974537" alt="Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

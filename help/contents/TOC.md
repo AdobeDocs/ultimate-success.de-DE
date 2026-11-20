@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar-Bibliothek
 breadcrumb-title: Ultimate Success Webinar-Bibliothek
 user-guide-description: Greifen Sie auf unsere exklusive Webinar-Bibliothek mit Expertenwissen für Ultimate Success-Kunden zu, um schnell strategische und technische Best Practices zu beherrschen, die zu messbaren Geschäftsergebnissen führen.
 nudge: true
-source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
+source-git-commit: 35b838f2553e462a3f6e4f202e7440e049adef2f
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '322'
 ht-degree: 0%
 ---
 
@@ -71,4 +71,5 @@ ht-degree: 0%
   + {hide-from-toc}[Adobe-Mitarbeiter - Ihr KI-Teamkollege](../contents/2026/coworker-ai-teammate.md)
   + {hide-from-toc}[Umwandeln von Analytics Insights in einen Experimentier-Rückstand](../contents/2026/analytics-insights-experimentation-backlog.md)
   + {hide-from-toc}[Adobe AI-Agenten in der Praxis](../contents/2026/adobe-ai-agents-in-practice.md)
+  + {hide-from-toc}[RTCDP-Exzellenzzentrum](..//contents/2026/rtcdp-center-of-excellence.md)
 
