@@ -22,7 +22,7 @@ ht-degree: 1%
 
 Wie wandelt man die Komplexität der Zielgruppe in koordiniertes Handeln um? Diese praktische Sitzung bietet Unternehmensarchitekten und Plattformeigentümern einen Rahmen für die Organisation von Teams, Eigentümerschaft, Governance, Aktivierung und Messung rund um Adobe Experience Platform und Real-Time CDP, damit Geschäftseinheiten klarer und verantwortlicher zusammenarbeiten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508597/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508605/?captions=ger&learn=on&enablevpops)
 
 ## Wichtige Schlussfolgerungen
 
